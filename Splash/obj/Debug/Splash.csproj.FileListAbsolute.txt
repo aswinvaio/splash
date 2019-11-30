@@ -1,0 +1,15 @@
+D:\GIT\Splash\Splash\bin\Debug\Splash.exe.config
+D:\GIT\Splash\Splash\bin\Debug\Splash.exe
+D:\GIT\Splash\Splash\bin\Debug\Splash.pdb
+D:\GIT\Splash\Splash\obj\Debug\Splash.csprojAssemblyReference.cache
+D:\GIT\Splash\Splash\obj\Debug\MainWindow.g.cs
+D:\GIT\Splash\Splash\obj\Debug\App.g.cs
+D:\GIT\Splash\Splash\obj\Debug\Splash_MarkupCompile.cache
+D:\GIT\Splash\Splash\obj\Debug\Splash_MarkupCompile.lref
+D:\GIT\Splash\Splash\obj\Debug\MainWindow.baml
+D:\GIT\Splash\Splash\obj\Debug\Splash.g.resources
+D:\GIT\Splash\Splash\obj\Debug\Splash.Properties.Resources.resources
+D:\GIT\Splash\Splash\obj\Debug\Splash.csproj.GenerateResource.cache
+D:\GIT\Splash\Splash\obj\Debug\Splash.csproj.CoreCompileInputs.cache
+D:\GIT\Splash\Splash\obj\Debug\Splash.exe
+D:\GIT\Splash\Splash\obj\Debug\Splash.pdb
