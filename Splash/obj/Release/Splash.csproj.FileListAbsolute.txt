@@ -1,0 +1,17 @@
+D:\GIT\Splash\Splash\bin\Release\Splash.exe.config
+D:\GIT\Splash\Splash\bin\Release\Splash.exe
+D:\GIT\Splash\Splash\bin\Release\Splash.pdb
+D:\GIT\Splash\Splash\obj\Release\MainWindow.g.cs
+D:\GIT\Splash\Splash\obj\Release\SplashWindow.g.cs
+D:\GIT\Splash\Splash\obj\Release\App.g.cs
+D:\GIT\Splash\Splash\obj\Release\Splash_Content.g.cs
+D:\GIT\Splash\Splash\obj\Release\Splash_MarkupCompile.cache
+D:\GIT\Splash\Splash\obj\Release\Splash_MarkupCompile.lref
+D:\GIT\Splash\Splash\obj\Release\MainWindow.baml
+D:\GIT\Splash\Splash\obj\Release\SplashWindow.baml
+D:\GIT\Splash\Splash\obj\Release\Splash.g.resources
+D:\GIT\Splash\Splash\obj\Release\Splash.Properties.Resources.resources
+D:\GIT\Splash\Splash\obj\Release\Splash.csproj.GenerateResource.cache
+D:\GIT\Splash\Splash\obj\Release\Splash.csproj.CoreCompileInputs.cache
+D:\GIT\Splash\Splash\obj\Release\Splash.exe
+D:\GIT\Splash\Splash\obj\Release\Splash.pdb

@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-D:\GIT\Splash\Splash\obj\Debug\
+D:\GIT\Splash\Splash\obj\Release\
 Splash
 none
 false
-DEBUG;TRACE
+TRACE
 D:\GIT\Splash\Splash\App.xaml
 2-1881876456
 3-1330187358
