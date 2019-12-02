@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Media;
 using System.Text;
@@ -27,7 +28,9 @@ namespace Splash
         {
             InitializeComponent();
             image = new BitmapImage(new Uri(@"..\..\Images\gost1.png", UriKind.Relative));
-            player = new SoundPlayer(@"..\..\Sounds\scream1.wav");
+            FileStream fs = new FileStream(@"..\..\Sounds\scream1.wav", FileMode.Open, FileAccess.Read);
+            player = new SoundPlayer(fs);
+            player.LoadAsync();
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
