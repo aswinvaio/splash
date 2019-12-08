@@ -16,3 +16,6 @@ D:\GIT\Splash\Splash\obj\Debug\SplashWindow.g.cs
 D:\GIT\Splash\Splash\obj\Debug\SplashWindow.baml
 D:\GIT\Splash\Splash\obj\Debug\Splash_Content.g.cs
 D:\GIT\Splash\Splash\obj\Debug\Splash.csprojAssemblyReference.cache
+D:\GIT\Splash\Splash\bin\Debug\Splash.Lib.dll
+D:\GIT\Splash\Splash\bin\Debug\Splash.Lib.pdb
+D:\GIT\Splash\Splash\obj\Debug\Splash.csproj.CopyComplete

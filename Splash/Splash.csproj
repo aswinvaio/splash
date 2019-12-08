@@ -37,6 +37,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
     <Reference Include="System.Xml" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Core" />
@@ -110,6 +111,12 @@
     <Content Include="Sounds\scream1.mp3" />
     <Content Include="Sounds\scream1.wav" />
     <Content Include="Sounds\scream2.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Splash.Lib\Splash.Lib.csproj">
+      <Project>{42eaf9f5-fc6f-4bc4-a656-0c97ec3d85b2}</Project>
+      <Name>Splash.Lib</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

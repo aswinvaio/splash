@@ -1,0 +1,6 @@
+D:\GIT\Splash\Splash.Lib\bin\Debug\Splash.Lib.dll
+D:\GIT\Splash\Splash.Lib\bin\Debug\Splash.Lib.pdb
+D:\GIT\Splash\Splash.Lib\obj\Debug\Splash.Lib.csproj.CoreCompileInputs.cache
+D:\GIT\Splash\Splash.Lib\obj\Debug\Splash.Lib.dll
+D:\GIT\Splash\Splash.Lib\obj\Debug\Splash.Lib.pdb
+D:\GIT\Splash\Splash.Lib\obj\Debug\Splash.Lib.csprojAssemblyReference.cache
